@@ -385,5 +385,455 @@
     "created_at": "2026-05-19T09:52:02.382146+00:00",
     "updated_at": "2026-05-19T11:03:14.010042+00:00",
     "error": null
+  },
+  "egg": {
+    "food_name": "egg",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/egg.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:46:14.840453+00:00",
+    "updated_at": "2026-05-19T11:46:14.840483+00:00",
+    "error": null
+  },
+  "shrimp": {
+    "food_name": "shrimp",
+    "category": "seafood",
+    "image_url": "/static/generated_foods/shrimp.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:47:06.384576+00:00",
+    "updated_at": "2026-05-19T11:49:22.237497+00:00",
+    "error": null
+  },
+  "pork_chop": {
+    "food_name": "pork chop",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/pork_chop.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:47:30.847431+00:00",
+    "updated_at": "2026-05-19T11:52:24.648198+00:00",
+    "error": null
+  },
+  "lamb": {
+    "food_name": "lamb",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/lamb.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:48:22.356080+00:00",
+    "updated_at": "2026-05-19T11:50:37.223437+00:00",
+    "error": null
+  },
+  "greek_yogurt": {
+    "food_name": "Greek yogurt",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/greek_yogurt.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:48:44.783702+00:00",
+    "updated_at": "2026-05-19T11:52:46.865032+00:00",
+    "error": null
+  },
+  "butter": {
+    "food_name": "butter",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/butter.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:51:52.437871+00:00",
+    "updated_at": "2026-05-19T11:55:25.049832+00:00",
+    "error": null
+  },
+  "cream_cheese": {
+    "food_name": "cream cheese",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/cream_cheese.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:54:30.062180+00:00",
+    "updated_at": "2026-05-19T11:55:47.319381+00:00",
+    "error": null
+  },
+  "avocado": {
+    "food_name": "avocado",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/avocado.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:54:52.691428+00:00",
+    "updated_at": "2026-05-19T11:58:25.970076+00:00",
+    "error": null
+  },
+  "tomato": {
+    "food_name": "tomato",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/tomato.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:57:30.699670+00:00",
+    "updated_at": "2026-05-19T11:58:54.753799+00:00",
+    "error": null
+  },
+  "cucumber": {
+    "food_name": "cucumber",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/cucumber.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T11:57:53.211994+00:00",
+    "updated_at": "2026-05-19T11:59:45.432112+00:00",
+    "error": null
+  },
+  "corn": {
+    "food_name": "corn",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/corn.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:00:37.064795+00:00",
+    "updated_at": "2026-05-19T12:01:31.830082+00:00",
+    "error": null
+  },
+  "mushroom": {
+    "food_name": "mushroom",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/mushroom.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:00:59.637145+00:00",
+    "updated_at": "2026-05-19T12:04:40.827423+00:00",
+    "error": null
+  },
+  "onion": {
+    "food_name": "onion",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/onion.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:03:15.176689+00:00",
+    "updated_at": "2026-05-19T12:05:03.028830+00:00",
+    "error": null
+  },
+  "peas": {
+    "food_name": "peas",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/peas.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:03:44.374528+00:00",
+    "updated_at": "2026-05-19T12:05:45.986815+00:00",
+    "error": null
+  },
+  "cauliflower": {
+    "food_name": "cauliflower",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/cauliflower.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:04:07.316516+00:00",
+    "updated_at": "2026-05-19T12:07:32.273640+00:00",
+    "error": null
+  },
+  "pumpkin": {
+    "food_name": "pumpkin",
+    "category": "general",
+    "image_url": "/static/generated_foods/pumpkin.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:06:59.727417+00:00",
+    "updated_at": "2026-05-19T12:10:32.809896+00:00",
+    "error": null
+  },
+  "celery": {
+    "food_name": "celery",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/celery.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:09:15.380642+00:00",
+    "updated_at": "2026-05-19T12:10:54.962348+00:00",
+    "error": null
+  },
+  "eggplant": {
+    "food_name": "eggplant",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/eggplant.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:09:38.073160+00:00",
+    "updated_at": "2026-05-19T12:11:45.712439+00:00",
+    "error": null
+  },
+  "lettuce": {
+    "food_name": "lettuce",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/lettuce.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:10:00.205587+00:00",
+    "updated_at": "2026-05-19T12:13:32.261750+00:00",
+    "error": null
+  },
+  "zucchini": {
+    "food_name": "zucchini",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/zucchini.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:12:59.866156+00:00",
+    "updated_at": "2026-05-19T12:16:36.721450+00:00",
+    "error": null
+  },
+  "strawberry": {
+    "food_name": "strawberry",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/strawberry.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:15:19.456490+00:00",
+    "updated_at": "2026-05-19T12:16:59.009664+00:00",
+    "error": null
+  },
+  "watermelon": {
+    "food_name": "watermelon",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/watermelon.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:15:42.037302+00:00",
+    "updated_at": "2026-05-19T12:17:45.086358+00:00",
+    "error": null
+  },
+  "grapes": {
+    "food_name": "grapes",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/grapes.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:16:04.473003+00:00",
+    "updated_at": "2026-05-19T12:19:30.935849+00:00",
+    "error": null
+  },
+  "pineapple": {
+    "food_name": "pineapple",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/pineapple.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:18:58.728662+00:00",
+    "updated_at": "2026-05-19T12:22:31.953112+00:00",
+    "error": null
+  },
+  "peach": {
+    "food_name": "peach",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/peach.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:21:15.193572+00:00",
+    "updated_at": "2026-05-19T12:22:54.155466+00:00",
+    "error": null
+  },
+  "pear": {
+    "food_name": "pear",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/pear.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:21:37.288434+00:00",
+    "updated_at": "2026-05-19T12:23:44.831862+00:00",
+    "error": null
+  },
+  "cherry": {
+    "food_name": "cherry",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/cherry.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:21:59.478668+00:00",
+    "updated_at": "2026-05-19T12:25:30.771952+00:00",
+    "error": null
+  },
+  "papaya": {
+    "food_name": "papaya",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/papaya.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:24:58.645389+00:00",
+    "updated_at": "2026-05-19T12:28:30.909615+00:00",
+    "error": null
+  },
+  "pomegranate": {
+    "food_name": "pomegranate",
+    "category": "general",
+    "image_url": "/static/generated_foods/pomegranate.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:26:44.544765+00:00",
+    "updated_at": "2026-05-19T12:31:31.161028+00:00",
+    "error": null
+  },
+  "white_rice": {
+    "food_name": "white rice",
+    "category": "grains",
+    "image_url": "/static/generated_foods/white_rice.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:27:36.171563+00:00",
+    "updated_at": "2026-05-19T12:29:44.951321+00:00",
+    "error": null
+  },
+  "spaghetti": {
+    "food_name": "spaghetti",
+    "category": "general",
+    "image_url": "/static/generated_foods/spaghetti.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:27:58.273129+00:00",
+    "updated_at": "2026-05-19T12:31:53.410502+00:00",
+    "error": null
+  },
+  "quinoa": {
+    "food_name": "quinoa",
+    "category": "grains",
+    "image_url": "/static/generated_foods/quinoa.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:30:58.983189+00:00",
+    "updated_at": "2026-05-19T12:32:44.923834+00:00",
+    "error": null
+  },
+  "granola": {
+    "food_name": "granola",
+    "category": "grains",
+    "image_url": "/static/generated_foods/granola.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:33:36.522407+00:00",
+    "updated_at": "2026-05-19T12:34:31.381419+00:00",
+    "error": null
+  },
+  "corn_flakes": {
+    "food_name": "corn flakes",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/corn_flakes.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:33:59.042697+00:00",
+    "updated_at": "2026-05-19T12:37:31.496175+00:00",
+    "error": null
+  },
+  "tortilla": {
+    "food_name": "tortilla",
+    "category": "grains",
+    "image_url": "/static/generated_foods/tortilla.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:36:14.619716+00:00",
+    "updated_at": "2026-05-19T12:37:54.008102+00:00",
+    "error": null
+  },
+  "pizza": {
+    "food_name": "pizza",
+    "category": "general",
+    "image_url": "/static/generated_foods/pizza.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:36:37.112581+00:00",
+    "updated_at": "2026-05-19T12:38:44.706733+00:00",
+    "error": null
+  },
+  "burger": {
+    "food_name": "burger",
+    "category": "general",
+    "image_url": "/static/generated_foods/burger.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:36:59.310434+00:00",
+    "updated_at": "2026-05-19T12:40:31.502389+00:00",
+    "error": null
+  },
+  "dumpling": {
+    "food_name": "dumpling",
+    "category": "general",
+    "image_url": "/static/generated_foods/dumpling.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:39:58.878658+00:00",
+    "updated_at": "2026-05-19T12:43:31.596572+00:00",
+    "error": null
+  },
+  "spring_roll": {
+    "food_name": "spring roll",
+    "category": "bakery",
+    "image_url": "/static/generated_foods/spring_roll.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:42:14.968770+00:00",
+    "updated_at": "2026-05-19T12:43:54.016091+00:00",
+    "error": null
+  },
+  "fried_rice": {
+    "food_name": "fried rice",
+    "category": "grains",
+    "image_url": "/static/generated_foods/fried_rice.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:42:37.168617+00:00",
+    "updated_at": "2026-05-19T12:44:44.693526+00:00",
+    "error": null
+  },
+  "pancake": {
+    "food_name": "pancake",
+    "category": "bakery",
+    "image_url": "/static/generated_foods/pancake.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:42:59.267959+00:00",
+    "updated_at": "2026-05-19T12:46:30.996578+00:00",
+    "error": null
+  },
+  "waffle": {
+    "food_name": "waffle",
+    "category": "bakery",
+    "image_url": "/static/generated_foods/waffle.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:45:58.700877+00:00",
+    "updated_at": "2026-05-19T12:49:30.968239+00:00",
+    "error": null
+  },
+  "donut": {
+    "food_name": "donut",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/donut.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:48:14.318531+00:00",
+    "updated_at": "2026-05-19T12:49:53.267564+00:00",
+    "error": null
+  },
+  "cupcake": {
+    "food_name": "cupcake",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/cupcake.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:48:36.545662+00:00",
+    "updated_at": "2026-05-19T12:52:31.243275+00:00",
+    "error": null
+  },
+  "brownie": {
+    "food_name": "brownie",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/brownie.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:48:58.707398+00:00",
+    "updated_at": "2026-05-19T12:52:53.486225+00:00",
+    "error": null
+  },
+  "popcorn": {
+    "food_name": "popcorn",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/popcorn.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:51:59.007389+00:00",
+    "updated_at": "2026-05-19T12:53:44.924632+00:00",
+    "error": null
+  },
+  "onion_rings": {
+    "food_name": "onion rings",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/onion_rings.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:54:36.515110+00:00",
+    "updated_at": "2026-05-19T12:55:31.107416+00:00",
+    "error": null
+  },
+  "bubble_tea": {
+    "food_name": "bubble tea",
+    "category": "beverages",
+    "image_url": "/static/generated_foods/bubble_tea.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:54:58.732737+00:00",
+    "updated_at": "2026-05-19T12:58:08.979931+00:00",
+    "error": null
+  },
+  "orange_juice": {
+    "food_name": "orange juice",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/orange_juice.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:56:45.067992+00:00",
+    "updated_at": "2026-05-19T12:59:58.074231+00:00",
+    "error": null
+  },
+  "smoothie": {
+    "food_name": "smoothie",
+    "category": "beverages",
+    "image_url": "/static/generated_foods/smoothie.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T12:57:36.668460+00:00",
+    "updated_at": "2026-05-19T13:00:20.406071+00:00",
+    "error": null
   }
 }
