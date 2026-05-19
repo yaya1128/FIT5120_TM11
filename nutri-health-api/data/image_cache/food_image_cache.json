@@ -1,0 +1,389 @@
+{
+  "milk": {
+    "food_name": "milk",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/milk.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:50:59.151327+00:00",
+    "updated_at": "2026-05-19T09:52:31.463137+00:00",
+    "error": null
+  },
+  "plain_yogurt": {
+    "food_name": "plain yogurt",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/plain_yogurt.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:00.657293+00:00",
+    "updated_at": "2026-05-19T09:55:01.559085+00:00",
+    "error": null
+  },
+  "cottage_cheese": {
+    "food_name": "cottage cheese",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/cottage_cheese.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:02.159043+00:00",
+    "updated_at": "2026-05-19T10:22:47.459903+00:00",
+    "error": null
+  },
+  "cheese": {
+    "food_name": "cheese",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/cheese.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:03.665447+00:00",
+    "updated_at": "2026-05-19T10:25:39.637332+00:00",
+    "error": null
+  },
+  "chicken_breast": {
+    "food_name": "chicken breast",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/chicken_breast.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:05.172247+00:00",
+    "updated_at": "2026-05-19T10:00:03.742804+00:00",
+    "error": null
+  },
+  "beef": {
+    "food_name": "beef",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/beef.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:06.676815+00:00",
+    "updated_at": "2026-05-19T10:02:44.804249+00:00",
+    "error": null
+  },
+  "turkey": {
+    "food_name": "turkey",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/turkey.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:08.182534+00:00",
+    "updated_at": "2026-05-19T10:23:58.360550+00:00",
+    "error": null
+  },
+  "tofu": {
+    "food_name": "tofu",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/tofu.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:09.688645+00:00",
+    "updated_at": "2026-05-19T10:26:00.735908+00:00",
+    "error": null
+  },
+  "salmon": {
+    "food_name": "salmon",
+    "category": "seafood",
+    "image_url": "/static/generated_foods/salmon.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:11.193869+00:00",
+    "updated_at": "2026-05-19T10:28:32.268636+00:00",
+    "error": null
+  },
+  "tuna": {
+    "food_name": "tuna",
+    "category": "seafood",
+    "image_url": "/static/generated_foods/tuna.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:12.699417+00:00",
+    "updated_at": "2026-05-19T10:09:59.119874+00:00",
+    "error": null
+  },
+  "sardine": {
+    "food_name": "sardine",
+    "category": "seafood",
+    "image_url": "/static/generated_foods/sardine.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:14.202853+00:00",
+    "updated_at": "2026-05-19T10:28:53.033307+00:00",
+    "error": null
+  },
+  "carrot": {
+    "food_name": "carrot",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/carrot.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:15.708722+00:00",
+    "updated_at": "2026-05-19T10:28:01.631907+00:00",
+    "error": null
+  },
+  "broccoli": {
+    "food_name": "broccoli",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/broccoli.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:17.213969+00:00",
+    "updated_at": "2026-05-19T10:05:36.528628+00:00",
+    "error": null
+  },
+  "spinach": {
+    "food_name": "spinach",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/spinach.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:18.718956+00:00",
+    "updated_at": "2026-05-19T10:31:24.130871+00:00",
+    "error": null
+  },
+  "kale": {
+    "food_name": "kale",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/kale.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:20.221051+00:00",
+    "updated_at": "2026-05-19T10:31:44.610075+00:00",
+    "error": null
+  },
+  "sweet_potato": {
+    "food_name": "sweet potato",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/sweet_potato.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:21.726742+00:00",
+    "updated_at": "2026-05-19T10:34:15.704546+00:00",
+    "error": null
+  },
+  "mango": {
+    "food_name": "mango",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/mango.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:23.233516+00:00",
+    "updated_at": "2026-05-19T10:37:07.407186+00:00",
+    "error": null
+  },
+  "apple": {
+    "food_name": "apple",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/apple.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:24.740241+00:00",
+    "updated_at": "2026-05-19T09:57:57.291649+00:00",
+    "error": null
+  },
+  "banana": {
+    "food_name": "banana",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/banana.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:26.246810+00:00",
+    "updated_at": "2026-05-19T10:35:26.204492+00:00",
+    "error": null
+  },
+  "blueberries": {
+    "food_name": "blueberries",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/blueberries.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:27.753848+00:00",
+    "updated_at": "2026-05-19T10:42:21.549590+00:00",
+    "error": null
+  },
+  "orange": {
+    "food_name": "orange",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/orange.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:29.261347+00:00",
+    "updated_at": "2026-05-19T10:37:48.642313+00:00",
+    "error": null
+  },
+  "kiwi": {
+    "food_name": "kiwi",
+    "category": "fruits",
+    "image_url": "/static/generated_foods/kiwi.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:30.765407+00:00",
+    "updated_at": "2026-05-19T10:40:19.985805+00:00",
+    "error": null
+  },
+  "brown_rice": {
+    "food_name": "brown rice",
+    "category": "grains",
+    "image_url": "/static/generated_foods/brown_rice.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:32.270117+00:00",
+    "updated_at": "2026-05-19T10:42:42.012306+00:00",
+    "error": null
+  },
+  "oatmeal": {
+    "food_name": "oatmeal",
+    "category": "grains",
+    "image_url": "/static/generated_foods/oatmeal.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:33.775229+00:00",
+    "updated_at": "2026-05-19T10:08:31.326091+00:00",
+    "error": null
+  },
+  "whole_grain_bread": {
+    "food_name": "whole grain bread",
+    "category": "grains",
+    "image_url": "/static/generated_foods/whole_grain_bread.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:35.278489+00:00",
+    "updated_at": "2026-05-19T10:43:31.234385+00:00",
+    "error": null
+  },
+  "noodles_with_vegetables": {
+    "food_name": "noodles with vegetables",
+    "category": "grains",
+    "image_url": "/static/generated_foods/noodles_with_vegetables.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:36.785297+00:00",
+    "updated_at": "2026-05-19T10:45:12.618983+00:00",
+    "error": null
+  },
+  "lentils": {
+    "food_name": "lentils",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/lentils.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:38.291918+00:00",
+    "updated_at": "2026-05-19T10:48:04.228797+00:00",
+    "error": null
+  },
+  "chickpeas": {
+    "food_name": "chickpeas",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/chickpeas.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:39.798745+00:00",
+    "updated_at": "2026-05-19T10:50:55.888570+00:00",
+    "error": null
+  },
+  "edamame": {
+    "food_name": "edamame",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/edamame.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:41.300735+00:00",
+    "updated_at": "2026-05-19T10:49:14.785325+00:00",
+    "error": null
+  },
+  "fried_chicken": {
+    "food_name": "fried chicken",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/fried_chicken.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:42.803758+00:00",
+    "updated_at": "2026-05-19T10:04:10.896801+00:00",
+    "error": null
+  },
+  "instant_noodles": {
+    "food_name": "instant noodles",
+    "category": "grains",
+    "image_url": "/static/generated_foods/instant_noodles.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:44.311012+00:00",
+    "updated_at": "2026-05-19T09:56:28.654310+00:00",
+    "error": null
+  },
+  "sausage": {
+    "food_name": "sausage",
+    "category": "processed",
+    "image_url": "/static/generated_foods/sausage.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:45.818161+00:00",
+    "updated_at": "2026-05-19T10:51:16.428984+00:00",
+    "error": null
+  },
+  "hot_dog": {
+    "food_name": "hot dog",
+    "category": "processed",
+    "image_url": "/static/generated_foods/hot_dog.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:47.325434+00:00",
+    "updated_at": "2026-05-19T10:53:47.619037+00:00",
+    "error": null
+  },
+  "fish_balls": {
+    "food_name": "fish balls",
+    "category": "seafood",
+    "image_url": "/static/generated_foods/fish_balls.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:48.832679+00:00",
+    "updated_at": "2026-05-19T10:56:39.281676+00:00",
+    "error": null
+  },
+  "chips": {
+    "food_name": "chips",
+    "category": "snacks",
+    "image_url": "/static/generated_foods/chips.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:50.336911+00:00",
+    "updated_at": "2026-05-19T10:54:58.223287+00:00",
+    "error": null
+  },
+  "candy": {
+    "food_name": "candy",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/candy.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:51.841656+00:00",
+    "updated_at": "2026-05-19T11:01:32.469706+00:00",
+    "error": null
+  },
+  "ice_cream": {
+    "food_name": "ice cream",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/ice_cream.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:53.348754+00:00",
+    "updated_at": "2026-05-19T10:02:16.541629+00:00",
+    "error": null
+  },
+  "sweetened_fruit_juice": {
+    "food_name": "sweetened fruit juice",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/sweetened_fruit_juice.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:54.855397+00:00",
+    "updated_at": "2026-05-19T10:57:20.245898+00:00",
+    "error": null
+  },
+  "canned_fruit_in_syrup": {
+    "food_name": "canned fruit in syrup",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/canned_fruit_in_syrup.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:56.361615+00:00",
+    "updated_at": "2026-05-19T10:59:51.371363+00:00",
+    "error": null
+  },
+  "croissant": {
+    "food_name": "croissant",
+    "category": "bakery",
+    "image_url": "/static/generated_foods/croissant.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:57.869012+00:00",
+    "updated_at": "2026-05-19T10:11:28.470466+00:00",
+    "error": null
+  },
+  "white_toast_with_jam": {
+    "food_name": "white toast with jam",
+    "category": "grains",
+    "image_url": "/static/generated_foods/white_toast_with_jam.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:51:59.376384+00:00",
+    "updated_at": "2026-05-19T10:07:05.624061+00:00",
+    "error": null
+  },
+  "potato_chips": {
+    "food_name": "potato chips",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/potato_chips.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:52:00.879202+00:00",
+    "updated_at": "2026-05-19T11:01:53.322405+00:00",
+    "error": null
+  },
+  "french_fries": {
+    "food_name": "french fries",
+    "category": "snacks",
+    "image_url": "/static/generated_foods/french_fries.png",
+    "image_status": "ready",
+    "created_at": "2026-05-19T09:52:02.382146+00:00",
+    "updated_at": "2026-05-19T11:03:14.010042+00:00",
+    "error": null
+  }
+}
