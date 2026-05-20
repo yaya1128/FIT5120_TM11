@@ -835,5 +835,185 @@
     "created_at": "2026-05-19T12:57:36.668460+00:00",
     "updated_at": "2026-05-19T13:00:20.406071+00:00",
     "error": null
+  },
+  "wonton": {
+    "food_name": "wonton",
+    "category": "general",
+    "image_url": "/static/generated_foods/wonton.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:14:46.972236+00:00",
+    "updated_at": "2026-05-20T07:14:46.972247+00:00",
+    "error": null
+  },
+  "ramen": {
+    "food_name": "ramen",
+    "category": "general",
+    "image_url": "/static/generated_foods/ramen.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:15:38.524245+00:00",
+    "updated_at": "2026-05-20T07:17:46.837296+00:00",
+    "error": null
+  },
+  "sushi": {
+    "food_name": "sushi",
+    "category": "general",
+    "image_url": "/static/generated_foods/sushi.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:16:00.902409+00:00",
+    "updated_at": "2026-05-20T07:20:46.466064+00:00",
+    "error": null
+  },
+  "taco": {
+    "food_name": "taco",
+    "category": "general",
+    "image_url": "/static/generated_foods/taco.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:16:52.372632+00:00",
+    "updated_at": "2026-05-20T07:19:00.574560+00:00",
+    "error": null
+  },
+  "burrito": {
+    "food_name": "burrito",
+    "category": "general",
+    "image_url": "/static/generated_foods/burrito.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:17:14.421847+00:00",
+    "updated_at": "2026-05-20T07:21:08.674845+00:00",
+    "error": null
+  },
+  "falafel": {
+    "food_name": "falafel",
+    "category": "general",
+    "image_url": "/static/generated_foods/falafel.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:20:14.274532+00:00",
+    "updated_at": "2026-05-20T07:23:46.916258+00:00",
+    "error": null
+  },
+  "hummus": {
+    "food_name": "hummus",
+    "category": "general",
+    "image_url": "/static/generated_foods/hummus.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:22:52.042530+00:00",
+    "updated_at": "2026-05-20T07:24:09.496999+00:00",
+    "error": null
+  },
+  "fried_egg": {
+    "food_name": "fried egg",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/fried_egg.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:23:14.338851+00:00",
+    "updated_at": "2026-05-20T07:26:47.319948+00:00",
+    "error": null
+  },
+  "boiled_egg": {
+    "food_name": "boiled egg",
+    "category": "proteins",
+    "image_url": "/static/generated_foods/boiled_egg.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:25:52.711253+00:00",
+    "updated_at": "2026-05-20T07:27:09.542726+00:00",
+    "error": null
+  },
+  "peanut_butter": {
+    "food_name": "peanut butter",
+    "category": "dairy",
+    "image_url": "/static/generated_foods/peanut_butter.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:26:15.064467+00:00",
+    "updated_at": "2026-05-20T07:29:47.855599+00:00",
+    "error": null
+  },
+  "almond": {
+    "food_name": "almond",
+    "category": "general",
+    "image_url": "/static/generated_foods/almond.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:28:52.902896+00:00",
+    "updated_at": "2026-05-20T07:30:10.285064+00:00",
+    "error": null
+  },
+  "walnut": {
+    "food_name": "walnut",
+    "category": "general",
+    "image_url": "/static/generated_foods/walnut.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:29:15.489019+00:00",
+    "updated_at": "2026-05-20T07:32:48.206114+00:00",
+    "error": null
+  },
+  "sunflower_seeds": {
+    "food_name": "sunflower seeds",
+    "category": "general",
+    "image_url": "/static/generated_foods/sunflower_seeds.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:31:53.481162+00:00",
+    "updated_at": "2026-05-20T07:33:10.576082+00:00",
+    "error": null
+  },
+  "dark_chocolate": {
+    "food_name": "dark chocolate",
+    "category": "sweets",
+    "image_url": "/static/generated_foods/dark_chocolate.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:32:16.036664+00:00",
+    "updated_at": "2026-05-20T07:35:48.600115+00:00",
+    "error": null
+  },
+  "green_tea": {
+    "food_name": "green tea",
+    "category": "beverages",
+    "image_url": "/static/generated_foods/green_tea.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:34:53.591080+00:00",
+    "updated_at": "2026-05-20T07:36:11.002996+00:00",
+    "error": null
+  },
+  "coconut": {
+    "food_name": "coconut",
+    "category": "general",
+    "image_url": "/static/generated_foods/coconut.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:35:16.150488+00:00",
+    "updated_at": "2026-05-20T07:38:48.762814+00:00",
+    "error": null
+  },
+  "sweet_corn": {
+    "food_name": "sweet corn",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/sweet_corn.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:37:54.257851+00:00",
+    "updated_at": "2026-05-20T07:39:10.858957+00:00",
+    "error": null
+  },
+  "toasted_bread": {
+    "food_name": "toasted bread",
+    "category": "grains",
+    "image_url": "/static/generated_foods/toasted_bread.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:38:16.496368+00:00",
+    "updated_at": "2026-05-20T07:41:48.753688+00:00",
+    "error": null
+  },
+  "baked_potato": {
+    "food_name": "baked potato",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/baked_potato.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:40:54.090914+00:00",
+    "updated_at": "2026-05-20T07:42:11.070481+00:00",
+    "error": null
+  },
+  "mashed_potato": {
+    "food_name": "mashed potato",
+    "category": "vegetables",
+    "image_url": "/static/generated_foods/mashed_potato.png",
+    "image_status": "ready",
+    "created_at": "2026-05-20T07:41:16.302795+00:00",
+    "updated_at": "2026-05-20T07:43:34.990820+00:00",
+    "error": null
   }
 }
